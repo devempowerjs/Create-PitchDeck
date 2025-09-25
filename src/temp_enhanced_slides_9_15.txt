@@ -1,0 +1,122 @@
+<!-- Enhanced Slides 9-15 for PDF Generation -->
+
+<!-- Slide 9: Enhanced Cost Structure -->
+<div class="print-slide">
+  <div class="slide-content">
+    <div style="height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; overflow: hidden;">
+      <div style="position: relative; z-index: 10; width: 100%; max-width: 80rem;">
+        <h1 style="color: white; margin-bottom: 3rem; text-align: center; background: linear-gradient(45deg, #ffffff, #fecaca, #fed7aa); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+          Cost Structure
+        </h1>
+        
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem;">
+          <div style="padding: 2rem; background: linear-gradient(45deg, rgba(239, 68, 68, 0.2), rgba(249, 115, 22, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(248, 113, 113, 0.3); color: white; text-align: center; border-radius: 0.75rem;">
+            <svg style="width: 4rem; height: 4rem; margin: 0 auto 1.5rem; color: #fca5a5;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+            </svg>
+            <h3 style="color: white; margin-bottom: 1rem;">Development & Maintenance</h3>
+            <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">₹5L/year estimated</p>
+          </div>
+          <div style="padding: 2rem; background: linear-gradient(45deg, rgba(239, 68, 68, 0.2), rgba(249, 115, 22, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(248, 113, 113, 0.3); color: white; text-align: center; border-radius: 0.75rem;">
+            <svg style="width: 4rem; height: 4rem; margin: 0 auto 1.5rem; color: #fca5a5;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9v-9m0-9v9"></path>
+            </svg>
+            <h3 style="color: white; margin-bottom: 1rem;">Hosting + Cloud Costs</h3>
+            <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">₹2L/year estimated</p>
+          </div>
+          <div style="padding: 2rem; background: linear-gradient(45deg, rgba(239, 68, 68, 0.2), rgba(249, 115, 22, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(248, 113, 113, 0.3); color: white; text-align: center; border-radius: 0.75rem;">
+            <svg style="width: 4rem; height: 4rem; margin: 0 auto 1.5rem; color: #fca5a5;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path>
+            </svg>
+            <h3 style="color: white; margin-bottom: 1rem;">Marketing & Campaigns</h3>
+            <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">₹3L/year estimated</p>
+          </div>
+          <div style="padding: 2rem; background: linear-gradient(45deg, rgba(239, 68, 68, 0.2), rgba(249, 115, 22, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(248, 113, 113, 0.3); color: white; text-align: center; border-radius: 0.75rem;">
+            <svg style="width: 4rem; height: 4rem; margin: 0 auto 1.5rem; color: #fca5a5;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197m13.5-9a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z"></path>
+            </svg>
+            <h3 style="color: white; margin-bottom: 1rem;">Trainers/Volunteers</h3>
+            <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">₹1L/year estimated</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 10: Enhanced Roadmap -->
+<div class="print-slide">
+  <div class="slide-content">
+    <div style="height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; overflow: hidden;">
+      <div style="position: relative; z-index: 10; width: 100%; max-width: 112rem;">
+        <h1 style="color: white; margin-bottom: 3rem; text-align: center; background: linear-gradient(45deg, #ffffff, #dbeafe, #e0e7ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+          Development Roadmap
+        </h1>
+        
+        <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 1.5rem;">
+          <div style="padding: 1.5rem; background: linear-gradient(45deg, rgba(16, 185, 129, 0.2), rgba(5, 150, 105, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(16, 185, 129, 0.3); color: white; border-radius: 0.75rem;">
+            <div style="display: inline-flex; items-center: gap: 0.5rem; padding: 0.25rem 0.75rem; background: linear-gradient(45deg, #10b981, #059669); border-radius: 9999px; color: white; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.75rem;">Current</div>
+            <div style="margin-bottom: 1rem;">
+              <span style="font-size: 0.75rem; background: rgba(255, 255, 255, 0.2); padding: 0.25rem 0.5rem; border-radius: 9999px;">✅ Active</span>
+            </div>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Website Live</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Extension Beta</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">• First Users</li>
+            </ul>
+          </div>
+          
+          <div style="padding: 1.5rem; background: linear-gradient(45deg, rgba(59, 130, 246, 0.2), rgba(6, 182, 212, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(59, 130, 246, 0.3); color: white; border-radius: 0.75rem;">
+            <div style="display: inline-flex; items-center: gap: 0.5rem; padding: 0.25rem 0.75rem; background: linear-gradient(45deg, #60a5fa, #06b6d4); border-radius: 9999px; color: white; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.75rem;">Q1 2025</div>
+            <div style="margin-bottom: 1rem;">
+              <span style="font-size: 0.75rem; background: rgba(255, 255, 255, 0.2); padding: 0.25rem 0.5rem; border-radius: 9999px;">🚀 In Progress</span>
+            </div>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Free teen version</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Alert system</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">• Privacy shortcuts</li>
+            </ul>
+          </div>
+          
+          <div style="padding: 1.5rem; background: linear-gradient(45deg, rgba(147, 51, 234, 0.2), rgba(236, 72, 153, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(147, 51, 234, 0.3); color: white; border-radius: 0.75rem;">
+            <div style="display: inline-flex; items-center: gap: 0.5rem; padding: 0.25rem 0.75rem; background: linear-gradient(45deg, #9333ea, #ec4899); border-radius: 9999px; color: white; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.75rem;">Q2 2025</div>
+            <div style="margin-bottom: 1rem;">
+              <span style="font-size: 0.75rem; background: rgba(255, 255, 255, 0.2); padding: 0.25rem 0.5rem; border-radius: 9999px;">📈 Premium Launch</span>
+            </div>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Gamification</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Advanced AI detection</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">• Premium features</li>
+            </ul>
+          </div>
+          
+          <div style="padding: 1.5rem; background: linear-gradient(45deg, rgba(249, 115, 22, 0.2), rgba(239, 68, 68, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(249, 115, 22, 0.3); color: white; border-radius: 0.75rem;">
+            <div style="display: inline-flex; items-center: gap: 0.5rem; padding: 0.25rem 0.75rem; background: linear-gradient(45deg, #f97316, #ef4444); border-radius: 9999px; color: white; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.75rem;">Q3 2025</div>
+            <div style="margin-bottom: 1rem;">
+              <span style="font-size: 0.75rem; background: rgba(255, 255, 255, 0.2); padding: 0.25rem 0.5rem; border-radius: 9999px;">🏢 Enterprise</span>
+            </div>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• School Dashboard</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Corporate Version</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">• Bulk licensing</li>
+            </ul>
+          </div>
+          
+          <div style="padding: 1.5rem; background: linear-gradient(45deg, rgba(234, 179, 8, 0.2), rgba(249, 115, 22, 0.2)); backdrop-filter: blur(10px); border: 1px solid rgba(234, 179, 8, 0.3); color: white; border-radius: 0.75rem;">
+            <div style="display: inline-flex; items-center: gap: 0.5rem; padding: 0.25rem 0.75rem; background: linear-gradient(45deg, #eab308, #f97316); border-radius: 9999px; color: white; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.75rem;">2026+</div>
+            <div style="margin-bottom: 1rem;">
+              <span style="font-size: 0.75rem; background: rgba(255, 255, 255, 0.2); padding: 0.25rem 0.5rem; border-radius: 9999px;">🌟 Future Vision</span>
+            </div>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• Mobile app</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem; margin-bottom: 0.5rem;">• AI sentiment detection</li>
+              <li style="color: rgba(255, 255, 255, 0.8); font-size: 0.875rem;">• Global certification</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Continue with slides 11-15 in next response due to length -->
