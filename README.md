@@ -1,7 +1,7 @@
 # Create PitchDeck PDF
 
 This is the OFFICIAL SRC of Create PitchDeck PDF created by [devempowerjs](github.com/devempowerjs)
-You may use this Template PitchDeck for your purpose.
+You may use this AS template Create PitchDeck PDF for your purpose.
 
 ## Support
 
